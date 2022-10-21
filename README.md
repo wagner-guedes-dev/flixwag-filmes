@@ -1,2 +1,2 @@
 Link Live Project: <br>
-https://filmes-recem-lancados.netlify.app/
+https://flixwag-lancamentos.netlify.app/

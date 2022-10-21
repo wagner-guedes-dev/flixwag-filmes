@@ -5,7 +5,7 @@ function Header(){
     return(
         <div className='menu-responsive'>
             <header>
-                <Link className='logo' to='/'>Prime Flix </Link>
+                <Link className='logo' to='/'>FLIXWAG</Link>
                 <Link className='favoritos' to='/favoritos'>Meus Filmes</Link>
             </header>
         </div>

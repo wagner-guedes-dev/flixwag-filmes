@@ -1,6 +1,10 @@
 .menu-responsive{
     width:100%;
     background-color: #000;
+    position: fixed;
+    top: 0;
+    border-bottom: 3px solid #fff;
+    border-top: 3px solid #fff;
 }
 header{
     margin: 0 auto;
